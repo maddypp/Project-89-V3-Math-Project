@@ -1,0 +1,26 @@
+#player1_div {
+    
+    background-color: red;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    float: none;
+
+}
+
+#player2_div {
+    
+    background-color: red;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    float: none;
+
+}
+
+#submit_button {
+    width: 90px;
+    height: 40px;
+    background-color: rgb(32, 255, 32);
+    border-radius: 7px;
+}
